@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "bitcore-lib": "^0.13.14",
-    "bitcore-node": "~3.1.0",
+    "bitcore-node": "git://github.com/temadev/bitcore-node.git#master",
     "insight-api": "^0.4.0",
     "insight-ui": "^0.4.0"
   },
